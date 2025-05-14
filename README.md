@@ -2,10 +2,10 @@
 This project focuses on analyzing sales data for **Avrdus**, a fictional retail business. The goal is to extract actionable insights using data analysis and visualization techniques. The dataset includes transactional data such as order date, product details, customer info, region, units sold, revenue, and profit.
 
 # Project Objective
-- To clean and transform raw sales data into a structured format.
-- To analyze key sales KPIs such as revenue, profit, and product performance.
-- To visualize sales performance across various regions, product categories, and time periods.
-- To answer key business questions that support data-driven decisions.
+- Analyze monthly revenue trends and discount impact
+- Identify top-performing product categories and their sales behavior
+- Understand geographical performance across different locations
+- Assess the time-series behavior of sales data for forecasting readiness
 
 # Dataset
 - <a href="https://github.com/Arpit111111/Avrdus-Sales-Analysis-Project/blob/main/Avrdus_sales_data.csv">Dataset</a>
@@ -35,11 +35,10 @@ This project focuses on analyzing sales data for **Avrdus**, a fictional retail 
 - Delivered a clean, insightful dashboard for business use.
 
 # Project Outcome
-- Identified the **top 5 high-performing products** that generated the highest revenue.
-- Discovered **low-performing categories** and products to reconsider or optimize.
-- Revealed that **certain cities consistently outperform others**, aiding regional strategy.
-- Highlighted **monthly spikes in sales**, supporting inventory and marketing planning.
-- Demonstrated a **visual report** that can be shared with stakeholders for real-time insights.
+- Revealed peak sales months and discount-heavy periods
+- ound that specific categories drive higher revenue with strategic discount
+- Uncovered location-based sales trends and performance gaps
+- Validated that the sales data is suitable for time-series forecasting
 
   # Conclusion
 This project demonstrates the power of data in driving business decisions. By analyzing sales patterns and product performance, Avrdus can optimize inventory, focus on profitable regions, and boost overall sales. The visual dashboards help stakeholders understand trends at a glance and make faster, smarter choices.
