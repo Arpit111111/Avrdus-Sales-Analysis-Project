@@ -8,7 +8,7 @@ This project focuses on analyzing sales data for **Avrdus**, a fictional retail 
 - To answer key business questions that support data-driven decisions.
 
 # Dataset
-- 
+- <a href="https://github.com/Arpit111111/Avrdus-Sales-Analysis-Project/blob/main/Avrdus_sales_data.csv">Dataset</a>
 
 # Question (KPIs)
 - What is the sum of final price and discount by month?
@@ -23,11 +23,9 @@ This project focuses on analyzing sales data for **Avrdus**, a fictional retail 
 - The total sales and final price by month?
 
   # Dashboard Link
-  -
-  -
-  -
-
-  
+  -  <a href="https://github.com/Arpit111111/Avrdus-Sales-Analysis-Project/blob/main/Dashboard_1.png">Dashboard_1</a>
+  -  <a href="https://github.com/Arpit111111/Avrdus-Sales-Analysis-Project/blob/main/Dashboard_2.png">Dashboard_2</a>
+  -  <a href="https://github.com/Arpit111111/Avrdus-Sales-Analysis-Project/blob/main/Dashboard_3.png">Dashboard_3</a>
 
 # Project Process
 - Collected and imported financial data (CSV format).
